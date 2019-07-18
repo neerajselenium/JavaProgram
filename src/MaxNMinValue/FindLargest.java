@@ -3,7 +3,7 @@ package MaxNMinValue;
 public class FindLargest {
     public static void main(String[] args) {
 
-        int[] arr = {10, 75, 12, 15, 20, 45, 5, 71, 9};
+        int[] arr = {10, 75, 12, 15, 20, 45, 5, 71, 79, 9};
 
         int len = arr.length;
         int min = arr[0];
